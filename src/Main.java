@@ -64,6 +64,7 @@ public class Main {
         if (index < agendaPersoane.length) {
             agendaPersoane[index] = nume;
             index++;
+
         }
         else {
             for (int i= 0; i < agendaPersoane.length; i++){
